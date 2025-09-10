@@ -1,0 +1,42 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20040-002,Avenida Rio Branco,de 128 a 144 - lado par,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30130-010,Praça Sete de Setembro,,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+80010-000,Rua José Loureiro,,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+50010-000,Avenida Guararapes,,,Santo Antônio,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+40010-000,Avenida da França,,,Comércio,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90010-000,Rua Siqueira Campos,até 944/945,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+88010-400,Praça Quinze de Novembro,,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+29010-020,Praça Presidente Roosevelt,,,Centro,Vitória,ES,Espírito Santo,Sudeste,3205309,,27,5705
+13010-111,Rua General Osório,de 762/763 a 1661/1662,,Centro,Campinas,SP,São Paulo,Sudeste,3509502,2446,19,6291
+14010-060,Rua Saldanha Marinho,,,Centro,Ribeirão Preto,SP,São Paulo,Sudeste,3543402,5824,16,6969
+11010-020,Rua Riachuelo,lado par,,Centro,Santos,SP,São Paulo,Sudeste,3548500,6336,13,7071
+15010-080,Rua Delegado Pinto de Toledo,de 2601/2602 a 3398/3399,,Centro,São José do Rio Preto,SP,São Paulo,Sudeste,3549805,6476,17,7097
+20211-130,Rua Benedito Hipólito,,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30140-071,Rua dos Aimorés,de 971/972 a 1399/1400,,Boa Viagem,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+80510-180,Rua José Luiz Demeterco,,,São Francisco,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+52010-030,Rua Pacífico dos Santos,,,Paissandu,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+40100-110,Rua Victor Meirelles,,,Garcia,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+74810-100,Avenida Deputado Jamel Cecílio,,,Jardim Goiás,Goiânia,GO,Goiás,Centro-Oeste,5208707,,62,9373
+88015-210,Travessa Albertina Ganzo,,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+29055-460,Rua Joaquim Lírio,,,Praia do Canto,Vitória,ES,Espírito Santo,Sudeste,3205309,,27,5705
+13060-904,Avenida John Boyd Dunlop,s/n,Pontifícia Universidade Católica de Campinas (PUCC - Campus II),Jardim Ipaussurama,Campinas,SP,São Paulo,Sudeste,3509502,2446,19,6291
+14020-060,Rua Casemiro de Abreu,até 798/799,,Vila Seixas,Ribeirão Preto,SP,São Paulo,Sudeste,3543402,5824,16,6969
+11015-020,Rua Silva Jardim,lado par,,Vila Mathias,Santos,SP,São Paulo,Sudeste,3548500,6336,13,7071
+20220-460,Avenida Barão de Tefé,,,Saúde,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30150-221,Avenida Francisco Sales,até 699 - lado ímpar,,Floresta,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+80520-180,Jardinete Mário de Menezes Dória,,,Bom Retiro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+90450-000,Rua Anita Garibaldi,até 1298 - lado par,,Mont Serrat,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+74820-100,Avenida Terceira Radial,,,Setor Pedro Ludovico,Goiânia,GO,Goiás,Centro-Oeste,5208707,,62,9373
+88020-210,Rua Menino Deus,,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+29060-460,Rua Marquês de Montalvão,,,Jardim da Penha,Vitória,ES,Espírito Santo,Sudeste,3205309,,27,5705
+13070-904,Rua Jacob Bereck Steinberg,177,Escritório de Advocacia,Jardim Chapadão,Campinas,SP,São Paulo,Sudeste,3509502,2446,19,6291
+14030-060,Rua Guatapará,,,Vila Virgínia,Ribeirão Preto,SP,São Paulo,Sudeste,3543402,5824,16,6969
+11020-020,Praça Visconde de Itaborahy,,,Estuário,Santos,SP,São Paulo,Sudeste,3548500,6336,13,7071
+15020-080,Rua Lázaro Camargo Emke,,,Jardim Alvorada,São José do Rio Preto,SP,São Paulo,Sudeste,3549805,6476,17,7097
+80530-180,Praça Nossa Senhora de Salette,,,Centro Cívico,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+52030-030,Rua João Ezequiel,,,Encruzilhada,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+90460-000,Avenida Coronel Lucas de Oliveira,de 1382 a 1790 - lado par,,Bela Vista,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+74830-100,Avenida Luiz do Couto,,,Setor Pedro Ludovico,Goiânia,GO,Goiás,Centro-Oeste,5208707,,62,9373
+88025-210,Rua Antônio Carlos Ferreira,até 575/576,,Agronômica,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+29065-460,Praça Jacob Suaid,,,Mata da Praia,Vitória,ES,Espírito Santo,Sudeste,3205309,,27,5705
