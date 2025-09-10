@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "nome": "Laudantium Informátic",
+        "categoria": "Informática",
+        "preco": 3129.77,
+        "marca": "Dell",
+        "descricao": "Laudantium Informátic da marca Dell, qualidade garantida.",
+        "estoque": 63,
+        "avaliacao": 3.5,
+        "tags": [
+            "informática",
+            "dell",
+            "laudantium"
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Beatae Eletrodoméstico",
+        "categoria": "Eletrodomésticos",
+        "preco": 2731.62,
+        "marca": "Philco",
+        "descricao": "Beatae Eletrodoméstico da marca Philco, qualidade garantida.",
+        "estoque": 40,
+        "avaliacao": 4.2,
+        "tags": [
+            "eletrodomésticos",
+            "philco",
+            "beatae"
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Eius Eletrônico",
+        "categoria": "Eletrônicos",
+        "preco": 169.5,
+        "marca": "Motorola",
+        "descricao": "Eius Eletrônico da marca Motorola, qualidade garantida.",
+        "estoque": 62,
+        "avaliacao": 5.0,
+        "tags": [
+            "eletrônicos",
+            "motorola",
+            "eius"
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Ipsa Informátic",
+        "categoria": "Informática",
+        "preco": 894.6,
+        "marca": "Dell",
+        "descricao": "Ipsa Informátic da marca Dell, qualidade garantida.",
+        "estoque": 54,
+        "avaliacao": 4.4,
+        "tags": [
+            "informática",
+            "dell",
+            "ipsa"
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Illo Informátic",
+        "categoria": "Informática",
+        "preco": 4844.35,
+        "marca": "Dell",
+        "descricao": "Illo Informátic da marca Dell, qualidade garantida.",
+        "estoque": 36,
+        "avaliacao": 4.0,
+        "tags": [
+            "informática",
+            "dell",
+            "illo"
+        ]
+    },
+    {
+        "id": 6,
+        "nome": "Nisi Eletrodoméstico",
+        "categoria": "Eletrodomésticos",
+        "preco": 4239.98,
+        "marca": "LG",
+        "descricao": "Nisi Eletrodoméstico da marca LG, qualidade garantida.",
+        "estoque": 77,
+        "avaliacao": 4.7,
+        "tags": [
+            "eletrodomésticos",
+            "lg",
+            "nisi"
+        ]
+    },
+    {
+        "id": 7,
+        "nome": "Quae Informátic",
+        "categoria": "Informática",
+        "preco": 1893.03,
+        "marca": "Asus",
+        "descricao": "Quae Informátic da marca Asus, qualidade garantida.",
+        "estoque": 46,
+        "avaliacao": 3.0,
+        "tags": [
+            "informática",
+            "asus",
+            "quae"
+        ]
+    },
+    {
+        "id": 8,
+        "nome": "Dolores Eletrônico",
+        "categoria": "Eletrônicos",
+        "preco": 2581.19,
+        "marca": "Motorola",
+        "descricao": "Dolores Eletrônico da marca Motorola, qualidade garantida.",
+        "estoque": 74,
+        "avaliacao": 4.3,
+        "tags": [
+            "eletrônicos",
+            "motorola",
+            "dolores"
+        ]
+    },
+    {
+        "id": 9,
+        "nome": "Exercitationem Eletrônico",
+        "categoria": "Eletrônicos",
+        "preco": 785.88,
+        "marca": "Xiaomi",
+        "descricao": "Exercitationem Eletrônico da marca Xiaomi, qualidade garantida.",
+        "estoque": 45,
+        "avaliacao": 4.7,
+        "tags": [
+            "eletrônicos",
+            "xiaomi",
+            "exercitationem"
+        ]
+    },
+    {
+        "id": 10,
+        "nome": "Necessitatibus Informátic",
+        "categoria": "Informática",
+        "preco": 2468.29,
+        "marca": "Dell",
+        "descricao": "Necessitatibus Informátic da marca Dell, qualidade garantida.",
+        "estoque": 19,
+        "avaliacao": 4.9,
+        "tags": [
+            "informática",
+            "dell",
+            "necessitatibus"
+        ]
+    },
+    {
+        "id": 11,
+        "nome": "Culpa Game",
+        "categoria": "Games",
+        "preco": 4673.65,
+        "marca": "Sony",
+        "descricao": "Culpa Game da marca Sony, qualidade garantida.",
+        "estoque": 11,
+        "avaliacao": 3.0,
+        "tags": [
+            "games",
+            "sony",
+            "culpa"
+        ]
+    },
+    {
+        "id": 12,
+        "nome": "Deserunt Eletrodoméstico",
+        "categoria": "Eletrodomésticos",
+        "preco": 4752.97,
+        "marca": "Brastemp",
+        "descricao": "Deserunt Eletrodoméstico da marca Brastemp, qualidade garantida.",
+        "estoque": 32,
+        "avaliacao": 3.4,
+        "tags": [
+            "eletrodomésticos",
+            "brastemp",
+            "deserunt"
+        ]
+    },
+    {
+        "id": 13,
+        "nome": "Molestias Informátic",
+        "categoria": "Informática",
+        "preco": 1399.78,
+        "marca": "Lenovo",
+        "descricao": "Molestias Informátic da marca Lenovo, qualidade garantida.",
+        "estoque": 67,
+        "avaliacao": 3.8,
+        "tags": [
+            "informática",
+            "lenovo",
+            "molestias"
+        ]
+    },
+    {
+        "id": 14,
+        "nome": "Tempora Eletrônico",
+        "categoria": "Eletrônicos",
+        "preco": 660.89,
+        "marca": "Samsung",
+        "descricao": "Tempora Eletrônico da marca Samsung, qualidade garantida.",
+        "estoque": 56,
+        "avaliacao": 3.6,
+        "tags": [
+            "eletrônicos",
+            "samsung",
+            "tempora"
+        ]
+    },
+    {
+        "id": 15,
+        "nome": "Cumque Informátic",
+        "categoria": "Informática",
+        "preco": 3107.38,
+        "marca": "HP",
+        "descricao": "Cumque Informátic da marca HP, qualidade garantida.",
+        "estoque": 93,
+        "avaliacao": 4.7,
+        "tags": [
+            "informática",
+            "hp",
+            "cumque"
+        ]
+    },
+    {
+        "id": 16,
+        "nome": "Eveniet Game",
+        "categoria": "Games",
+        "preco": 2174.63,
+        "marca": "Logitech",
+        "descricao": "Eveniet Game da marca Logitech, qualidade garantida.",
+        "estoque": 96,
+        "avaliacao": 3.5,
+        "tags": [
+            "games",
+            "logitech",
+            "eveniet"
+        ]
+    },
+    {
+        "id": 17,
+        "nome": "Eos Eletrodoméstico",
+        "categoria": "Eletrodomésticos",
+        "preco": 756.48,
+        "marca": "LG",
+        "descricao": "Eos Eletrodoméstico da marca LG, qualidade garantida.",
+        "estoque": 72,
+        "avaliacao": 4.6,
+        "tags": [
+            "eletrodomésticos",
+            "lg",
+            "eos"
+        ]
+    },
+    {
+        "id": 18,
+        "nome": "Vel Game",
+        "categoria": "Games",
+        "preco": 549.68,
+        "marca": "Microsoft",
+        "descricao": "Vel Game da marca Microsoft, qualidade garantida.",
+        "estoque": 61,
+        "avaliacao": 4.5,
+        "tags": [
+            "games",
+            "microsoft",
+            "vel"
+        ]
+    },
+    {
+        "id": 19,
+        "nome": "Vitae Informátic",
+        "categoria": "Informática",
+        "preco": 142.29,
+        "marca": "Dell",
+        "descricao": "Vitae Informátic da marca Dell, qualidade garantida.",
+        "estoque": 97,
+        "avaliacao": 4.2,
+        "tags": [
+            "informática",
+            "dell",
+            "vitae"
+        ]
+    },
+    {
+        "id": 20,
+        "nome": "Non Eletrônico",
+        "categoria": "Eletrônicos",
+        "preco": 4510.95,
+        "marca": "Motorola",
+        "descricao": "Non Eletrônico da marca Motorola, qualidade garantida.",
+        "estoque": 25,
+        "avaliacao": 4.3,
+        "tags": [
+            "eletrônicos",
+            "motorola",
+            "non"
+        ]
+    }
+]
